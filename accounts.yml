@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs"
+  message: "Welcome to Xuyang EazyBank accounts related local APIs"
   contactDetails:
     name: "Xuyang - Developer"
     email: "xuyang@gmail.com"
